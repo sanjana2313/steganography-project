@@ -1,10 +1,10 @@
-# 🔐 StegoSecure AI
+🔐 StegoSecure AI
 
 A full-stack steganography web application to securely hide and extract messages inside images.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 🔒 Encode secret messages into images
 - 🔓 Decode hidden messages from images
@@ -15,14 +15,16 @@ A full-stack steganography web application to securely hide and extract messages
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
-### Frontend
+Frontend
+
 - React.js
 - Tailwind CSS
 - Axios
 
-### Backend
+Backend
+
 - Spring Boot
 - Java
 - H2 Database
