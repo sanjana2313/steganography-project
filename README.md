@@ -31,8 +31,9 @@ Backend
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
+```bash
 steganography-project/
 ├── stego-front/
 │   ├── public/
@@ -58,3 +59,4 @@ steganography-project/
 │   └── pom.xml
 │
 └── README.md
+```
