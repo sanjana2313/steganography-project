@@ -29,4 +29,31 @@ A full-stack steganography web application to securely hide and extract messages
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
+
+steganography-project/
+│
+├── stego-front/          # React Frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── pages/
+│   │   ├── components/
+│   │   ├── api/
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+│
+├── backend/              # Spring Boot Backend
+│   ├── src/main/java/com/steganography/backend/
+│   │   ├── controller/
+│   │   ├── service/
+│   │   ├── repository/
+│   │   ├── model/
+│   │   └── BackendApplication.java
+│   │
+│   ├── src/main/resources/
+│   │   ├── application.properties
+│   │
+│   └── pom.xml
+│
+└── README.md
